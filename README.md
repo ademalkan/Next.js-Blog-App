@@ -1,39 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## App Photos
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/43451577/216652546-258cda3c-6ea6-42f8-a350-dc0a7c1d5982.png)
 
-First, run the development server:
+![image](https://user-images.githubusercontent.com/43451577/216652580-e0202f5d-a33d-4e45-808b-ead9ea638dfe.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+![image](https://user-images.githubusercontent.com/43451577/216652617-b1a981c7-370c-400a-9035-776519f4e9aa.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image](https://user-images.githubusercontent.com/43451577/216652676-caf881af-6e7e-4685-99b5-f4952452831d.png)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![image](https://user-images.githubusercontent.com/43451577/216652795-0325d8f7-96cd-45c5-94ff-780b71512877.png)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Responsive
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![image](https://user-images.githubusercontent.com/43451577/216652904-346059cc-76d1-44d6-a4df-a2abf7c57ff8.png)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![image](https://user-images.githubusercontent.com/43451577/216652924-a1a7eaad-3307-44a3-9586-f890b22220dd.png)
 
-## Learn More
+![image](https://user-images.githubusercontent.com/43451577/216652973-7877cdfd-2de5-4518-84b7-041d54b530db.png)
 
-To learn more about Next.js, take a look at the following resources:
+![image](https://user-images.githubusercontent.com/43451577/216653050-fc5c02af-3f8e-4b0b-a497-a6fb3b7eb675.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![image](https://user-images.githubusercontent.com/43451577/216653065-e42afd07-7770-4565-aeb3-34655984c59e.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-"# Next.js-Blog-App" 
+![image](https://user-images.githubusercontent.com/43451577/216653104-44c3601e-599b-485d-8d5f-c53fd6727fd4.png)
